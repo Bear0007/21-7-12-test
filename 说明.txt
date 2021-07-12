@@ -1,0 +1,2 @@
+#1.先把nod_modules包放进来
+#2.拿到以后先进行 cnpm install 安装所有插件，之后运行 npm run serve 才能运行起来。
